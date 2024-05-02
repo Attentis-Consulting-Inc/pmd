@@ -1,5 +1,5 @@
 ![AttentisBanner](/docs/banner.jpeg)
 
-# pmd-ruleset
+# PMD Ruleset for Apex
 
 Attentis Consulting PMD Ruleset
